@@ -1,0 +1,489 @@
+{
+    "name": "Philippines",
+    "regions": [
+        {
+            "number": "NCR",
+            "name": "National Capital Region",
+            "provinces": [],
+            "cities": [
+                {
+                    "name": "Caloocan"
+                },
+                {
+                    "name": "Las Pinas"
+                },
+                {
+                    "name": "Makati"
+                },
+                {
+                    "name": "Malabon"
+                },
+                {
+                    "name": "Mandaluyong"
+                },
+                {
+                    "name": "Manila"
+                },
+                {
+                    "name": "Marikina"
+                },
+                {
+                    "name": "Muntinlupa"
+                },
+                {
+                    "name": "Navotas"
+                },
+                {
+                    "name": "Paranaque"
+                },
+                {
+                    "name": "Pasay"
+                },
+                {
+                    "name": "Pasig"
+                },
+                {
+                    "name": "Pateros"
+                },
+                {
+                    "name": "Quezon City"
+                },
+                {
+                    "name": "San Juan"
+                },
+                {
+                    "name": "Taguig"
+                },
+                {
+                    "name": "Valenzuela"
+                }
+            ]
+        },
+        {
+            "number": "CAR",
+            "name": "Cordillera Administrative Region",
+            "provinces": [
+                {
+                    "name": "Abra"
+                },
+                {
+                    "name": "Apayao"
+                },
+                {
+                    "name": "Benguet"
+                },
+                {
+                    "name": "Ifugao"
+                },
+                {
+                    "name": "Kalinga"
+                },
+                {
+                    "name": "Mountain Province"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Baguio"
+                }
+            ]
+        },
+        {
+            "number": "1",
+            "name": "Ilocos",
+            "provinces": [
+                {
+                    "name": "Ilocos Norte"
+                },
+                {
+                    "name": "Ilocos Sur"
+                },
+                {
+                    "name": "La Union"
+                },
+                {
+                    "name": "Pangasinan"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Dagupan"
+                }
+            ]
+        },
+        {
+            "number": "2",
+            "name": "Cagayan Valley",
+            "provinces": [
+                {
+                    "name": "Batanes"
+                },
+                {
+                    "name": "Cagayan"
+                },
+                {
+                    "name": "Isabela"
+                },
+                {
+                    "name": "Nueva Vizcaya"
+                },
+                {
+                    "name": "Quirino"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Santiago"
+                }
+            ]
+        },
+        {
+            "number": "3",
+            "name": "Central Luzon",
+            "provinces": [
+                {
+                    "name": "Aurora"
+                },
+                {
+                    "name": "Bataan"
+                },
+                {
+                    "name": "Bulacan"
+                },
+                {
+                    "name": "Nueva Ecija"
+                },
+                {
+                    "name": "Pampanga"
+                },
+                {
+                    "name": "Tarlac"
+                },
+                {
+                    "name": "Zambales"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Angeles"
+                },
+                {
+                    "name": "Olongapo"
+                }
+            ]
+        },
+        {
+            "number": "4-A",
+            "name": "CALABARZON",
+            "provinces": [
+                {
+                    "name": "Batangas"
+                },
+                {
+                    "name": "Cavite"
+                },
+                {
+                    "name": "Laguna"
+                },
+                {
+                    "name": "Quezon"
+                },
+                {
+                    "name": "Rizal"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Lucena"
+                }
+            ]
+        },
+        {
+            "number": "4-B",
+            "name": "MIMAROPA",
+            "provinces": [
+                {
+                    "name": "Marinduque"
+                },
+                {
+                    "name": "Occidental Mindoro"
+                },
+                {
+                    "name": "Oriental Mindoro"
+                },
+                {
+                    "name": "Palawan"
+                },
+                {
+                    "name": "Romblon"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Puerto Princesa"
+                }
+            ]
+        },
+        {
+            "number": "5",
+            "name": "Bicol",
+            "provinces": [
+                {
+                    "name": "Albay"
+                },
+                {
+                    "name": "Camarines Norte"
+                },
+                {
+                    "name": "Camarines Sur"
+                },
+                {
+                    "name": "Catanduanes"
+                },
+                {
+                    "name": "Masbate"
+                },
+                {
+                    "name": "Sorsogon"
+                }
+            ],
+            "cities": []
+        },
+        {
+            "number": "6",
+            "name": "Western Visayas",
+            "provinces": [
+                {
+                    "name": "Aklan"
+                },
+                {
+                    "name": "Antique"
+                },
+                {
+                    "name": "Capiz"
+                },
+                {
+                    "name": "Guimaras"
+                },
+                {
+                    "name": "Iloilo"
+                },
+                {
+                    "name": "Negros Occidental"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Bacolod"
+                },
+                {
+                    "name": "Iloilo City"
+                }
+            ]
+        },
+        {
+            "number": "7",
+            "name": "Central Visayas",
+            "provinces": [
+                {
+                    "name": "Bohol"
+                },
+                {
+                    "name": "Cebu"
+                },
+                {
+                    "name": "Negros Oriental"
+                },
+                {
+                    "name": "Siquijor"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Cebu City"
+                }
+            ]
+        },
+        {
+            "number": "8",
+            "name": "Eastern Visayas",
+            "provinces": [
+                {
+                    "name": "Biliran"
+                },
+                {
+                    "name": "Eastern Samar"
+                },
+                {
+                    "name": "Leyte"
+                },
+                {
+                    "name": "Northern Samar"
+                },
+                {
+                    "name": "Samar"
+                },
+                {
+                    "name": "Southern Leyte"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Ormoc City"
+                },
+                {
+                    "name": "Tacloban"
+                }
+            ]
+        },
+        {
+            "number": "9",
+            "name": "Zamboanga Peninsula",
+            "provinces": [
+                {
+                    "name": "Zamboanga del Norte"
+                },
+                {
+                    "name": "Zamboanga del Sur"
+                },
+                {
+                    "name": "Zamboanga Sibugay"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Isabela City"
+                },
+                {
+                    "name": "Zamboanga City"
+                }
+            ]
+        },
+        {
+            "number": "10",
+            "name": "Northern Mindanao",
+            "provinces": [
+                {
+                    "name": "Bukidnon"
+                },
+                {
+                    "name": "Camiguin"
+                },
+                {
+                    "name": "Lanao del Norte"
+                },
+                {
+                    "name": "Misamis Occidental"
+                },
+                {
+                    "name": "Misamis Oriental"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Cagayan de Oro City"
+                },
+                {
+                    "name": "Iligan City"
+                }
+            ]
+        },
+        {
+            "number": "11",
+            "name": "Davao Region",
+            "provinces": [
+                {
+                    "name": "Compostela Valley"
+                },
+                {
+                    "name": "Davao del Norte"
+                },
+                {
+                    "name": "Davao Oriental"
+                },
+                {
+                    "name": "Davao del Sur"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Davao City"
+                }
+            ]
+        },
+        {
+            "number": "12",
+            "name": "SOCCSKSARGEN",
+            "provinces": [
+                {
+                    "name": "Cotabato"
+                },
+                {
+                    "name": "Sarangani"
+                },
+                {
+                    "name": "South Cotabato"
+                },
+                {
+                    "name": "Sultan Kudarat"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Cotabato City"
+                },
+                {
+                    "name": "General Santos City"
+                }
+            ]
+        },
+        {
+            "number": "13",
+            "name": "Caraga",
+            "provinces": [
+                {
+                    "name": "Agusan del Norte"
+                },
+                {
+                    "name": "Agusan del Sur"
+                },
+                {
+                    "name": "Dinagat Islands"
+                },
+                {
+                    "name": "Surigao del Norte"
+                },
+                {
+                    "name": "Surigao del Sur"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Butuan City"
+                }
+            ]
+        },
+        {
+            "number": "ARMM",
+            "name": "Autonomous Region of Muslim Mindanao",
+            "provinces": [
+                {
+                    "name": "Basilan"
+                },
+                {
+                    "name": "Lanao del Sur"
+                },
+                {
+                    "name": "Maguindanao"
+                },
+                {
+                    "name": "Sulu"
+                },
+                {
+                    "name": "Tawi-tawi"
+                }
+            ],
+            "cities": []
+        }
+    ]
+}
